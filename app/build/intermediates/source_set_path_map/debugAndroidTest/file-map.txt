@@ -1,0 +1,9 @@
+com.example.signupui.test.app-annotation-experimental-1.1.0-0 C:\Users\nour6\.gradle\caches\transforms-3\2509666b293ad3cbc989d460d819902c\transformed\annotation-experimental-1.1.0\res
+com.example.signupui.test.app-core-1.5.0-1 C:\Users\nour6\.gradle\caches\transforms-3\461d475c338d7205ee4d33b16bea1416\transformed\core-1.5.0\res
+com.example.signupui.test.app-androidTest-2 E:\Signup_UI-master\app\build\generated\res\resValues\androidTest\debug
+com.example.signupui.test.app-androidTest-3 E:\Signup_UI-master\app\build\generated\res\rs\androidTest\debug
+com.example.signupui.test.app-mergeDebugAndroidTestResources-4 E:\Signup_UI-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.signupui.test.app-mergeDebugAndroidTestResources-5 E:\Signup_UI-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.signupui.test.app-merged_res-6 E:\Signup_UI-master\app\build\intermediates\merged_res\debugAndroidTest
+com.example.signupui.test.app-androidTest-7 E:\Signup_UI-master\app\src\androidTest\res
+com.example.signupui.test.app-androidTestDebug-8 E:\Signup_UI-master\app\src\androidTestDebug\res
